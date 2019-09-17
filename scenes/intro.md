@@ -102,7 +102,7 @@ n3: Dus voordat we beginnen, hoe lees *jij* graag?
 
 n3: Geweldig! Onthoud dat je altijd de opties kan veranderen met het ⚙ icoon hieronder. Het spel slaat zichzelf ook ieder hoofdstuk op!
 
-n3: Nu, laten we ons verhaal beginnen.
+n3: Nu, laten we ons verhaal beginnen...
 
 `clearText()`
 
