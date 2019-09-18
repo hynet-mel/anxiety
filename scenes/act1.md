@@ -654,7 +654,7 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Oké ik retweet het, blijk in hemelsnaam rustig!
+h: Oké ik retweet het, blijf in hemelsnaam rustig!
 
 `hong({mouth:"neutral", eyes:"annoyed"});`
 
