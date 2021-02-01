@@ -6,7 +6,7 @@ var ContentNotes = {};
 
 	subscribe("show_cn", function(){
 
-		cnDOM.style.top = "65px";
+		cnDOM.style.top = "10px";
 		ContentNotes.showing = true;
 		Game.pause();
 		Howler.mute(false); // hack

@@ -12,7 +12,7 @@ Loader.addSounds([
 	$("#huh").onclick = function(){
 
 		aboutDOM.setAttribute("about","yes");
-		aboutDOM.style.top = "20px";
+		aboutDOM.style.top = "0";
 
 		// Hi
 		About.showing = true;
